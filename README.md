@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, my name is Nykoo, and I am an begginer programmer. 👋
 
-<!--
-**NykooLicar/NykooLicar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning C and GML.
+- 📫 How to reach me: Discord.
+- 🥡 Contact my discord: Nykoo#0084
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```c
+#include <stdio.h>
+
+int main() {
+  printf("Hello, World");
+}
+```
+<div>
+  <a href="https://ayo.so/nykoo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nykoolicar&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nykoolicar&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
