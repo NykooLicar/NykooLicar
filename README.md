@@ -8,10 +8,9 @@
 
 ```c
 #include <stdio.h>
-#define Hello_World "Hello, World!"
 
 int main() {
-  printf(Hello_World);
+  printf("Hello, World!");
 }
 ```
 <div>
