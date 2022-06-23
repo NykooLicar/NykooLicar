@@ -21,7 +21,6 @@ public class Main {
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Nykoo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-   <img align="center" alt="Nykoo-GML" height="30" width="40" src="https://2.bp.blogspot.com/-ZAWvPk1Zwz8/W3A74Ia_W2I/AAAAAAAACFc/Siynl2BlEDoUD8rug2ECGrQdzf5LrnsYwCLcBGAs/s1600/GameMaker%2BStudio%2BUltimate.png">
 </div>
   
 ##
