@@ -2,15 +2,15 @@
   
 ##
 
-- 🌱 I’m currently learning C and GML.
+- 🌱 I’m currently learning Java and Java Bukkit.
 - 📫 How to reach me: Discord.
-- 🥡 Contact my discord: Nykoo#0084
+- 🥡 Contact my discord: Starlight Nykoo#0084
 
-```c
-#include <stdio.h>
-
-int main() {
-  printf("Hello, World!");
+```java
+public class Main {
+    public static void main(String[] args) {
+      System.out.println("Hello, World");
+   }
 }
 ```
 <div>
