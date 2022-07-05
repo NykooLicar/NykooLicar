@@ -2,7 +2,7 @@
   
 ##
 
-- 🌱 I’m currently learning Java and Java Bukkit.
+- 🌱 I’m currently learning Java, Java Bukkit and Skript Lang.
 - 📫 How to reach me: Discord.
 - 🥡 Contact my discord: Starlight Nykoo#0084
 
