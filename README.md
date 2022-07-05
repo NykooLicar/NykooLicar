@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning Java, Java Bukkit and Skript Lang.
 - 📫 How to reach me: Discord.
-- 🥡 Contact my discord: Starlight Nykoo#0084
+- 👨🏽‍💼 I own a Minecraft Mods server called Eden Network.
+- 🥡 Contact my discord: Nykoo#0084
 
 ```java
 public class Main {
