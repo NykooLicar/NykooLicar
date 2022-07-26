@@ -2,7 +2,7 @@ Hi, my name is Nykoo, and I am an begginer programmer. 👋
 <!--<img alt="GIF2" src="https://64.media.tumblr.com/395f09abca072bc566906b15b4942658/3ba8feb270efaa76-8d/s400x600/ca0ecc996f11bd7998d503b1761b96f4098e0ed5.gifv" width = 200/>-->
 <img alt="GIF2" src="./yorhello.gif" width = 300/>
 
-- 🌱 I’m currently learning Java, JavaScript and Skript Lang.
+- 🌱 I’m currently Learning various programming languages
 - 📫 How to reach me: Discord.
 - 👨🏽‍💼 I own a Minecraft Mods server called Eden Network.
 - 🥡 Contact my discord: Nykoo#0084
