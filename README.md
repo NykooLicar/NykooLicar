@@ -21,7 +21,6 @@ public class Main {
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Nykoo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
   
 ##
